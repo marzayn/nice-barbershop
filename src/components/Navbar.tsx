@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardHeader, CardTitle } from "@/components/ui/card";
 import { UserPlus, UserCheck } from "lucide-react";
 import Image from "next/image";
 import Logo from "@/assets/nice.png";
